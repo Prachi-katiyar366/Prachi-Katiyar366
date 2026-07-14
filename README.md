@@ -1,16 +1,17 @@
-💫 Hi 👋, I'm Prachi Katiyar
-A passionate Software Engineer || web developer 
+# 💫 Hi 👋, I'm Prachi Katiyar.
+**A passionate software Engineer || Web developer**
 
-Email Me 👉 ✉️ katiyarprachi366@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **katiyarprachi366@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Library management system.
-🌱 I’m currently learning: JAVA ,DSA & python.
-👯 I’m looking to collaborate on: library management system . 
-🤔 I’m looking for help with: library management system.
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: katiyarprachi366@gmail.com
-😄 Pronouns: prachi
-⚡ Fun fact: I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Library management system.
+- 🌱 **I’m currently learning:** DSA(Data Structure & Algorithms).
+- 👯 **I’m looking to collaborate on:** library management system.
+- 🤔 **I’m looking for help with:** library management system
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** katiyarprachi366@gmail.com
+- 😄 **Pronouns:** Prachi 
+- ⚡ **Fun fact:** I Love Error and error loves me.
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prachi-katiyar366&theme=radical&no-frame=false&no-bg=true&margin-w=4)
