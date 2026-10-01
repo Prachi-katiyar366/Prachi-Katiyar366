@@ -3,10 +3,9 @@
 
 Email Me 👉 ✉️ **katiyarprachi366@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Library management system.
+- 🔭 **I’m currently working on:**AI based library management system.
 - 🌱 **I’m currently learning:** DSA(Data Structure & Algorithms).
-- 👯 **I’m looking to collaborate on:** library management system.
-- 🤔 **I’m looking for help with:** library management system
+- 👯 **I’m looking to collaborate on:** AI based library management system.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** katiyarprachi366@gmail.com
 - 😄 **Pronouns:** Prachi 
