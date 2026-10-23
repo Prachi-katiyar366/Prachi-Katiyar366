@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **katiyarprachi366@gmail.com** For Collaboration/Project or
 ![](https://github-profile-trophy.vercel.app/?username=Prachi-katiyar366&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/6499.priu_katiyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prachi-katiyar-b80330383) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katiyarprachi366@gmail.com)[![leetcode](https://miro.medium.com/v2/resize:fit:1400/1*W_4Of01mOUSTv3eX0YIdzg.jpeg)](https://leetcode.com/u/prachi-katiyar-2/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/6499.priu_katiyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prachi-katiyar-b80330383) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katiyarprachi366@gmail.com)[![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&color=%23f59e0b)](https://leetcode.com/u/prachi-katiyar-2/)
 <!-- Snake Game Repo View -->
 
 <div align="center">
